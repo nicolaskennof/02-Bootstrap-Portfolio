@@ -1,0 +1,44 @@
+/* Overwrites Bootstrap CSS */
+
+.navbar {
+    background-color: #ffffff !important;
+    border-bottom: 2px solid #dddddd;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    color: #ffffff !important;
+    font-size: 30px !important;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+}
+
+.active {
+    background-color: #4aaaa5;
+    color: #ffffff !important;
+}
+
+.nav-item:hover {
+    background-color: #4aaaa5;
+}
+
+.nav-link:hover {
+    color: #ffffff !important;
+}
+
+.container {
+    background-color: #ffffff;
+    border: 2px solid #dddddd;
+}
+
+.menu {
+    border: none;
+    padding: 0;
+}
+
+.border-bottom {
+    border-bottom: solid 1px #cccccc;
+}
+
+body {
+    margin-bottom: 70px;
+}
