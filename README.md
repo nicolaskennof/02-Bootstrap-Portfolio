@@ -1,2 +1,3 @@
 # Bootstrap-Portfolio
-Basic Portfolio with responsiveness by Bootstrap
+
+Deployed project: https://nicolaskennof.github.io/02-Bootstrap-Portfolio/
